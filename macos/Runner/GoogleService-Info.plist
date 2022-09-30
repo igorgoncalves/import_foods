@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>510130253782-huo953cl6djt3677fsv02aqb4ab95ip5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.510130253782-huo953cl6djt3677fsv02aqb4ab95ip5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_27fW6FICHSptn_2b2Y7UH9L3vU-JTEg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>510130253782</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.importFoods</string>
+	<key>PROJECT_ID</key>
+	<string>distribuicao-alimentos</string>
+	<key>STORAGE_BUCKET</key>
+	<string>distribuicao-alimentos.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:510130253782:ios:9a893823249cf8af943e77</string>
+	<key>DATABASE_URL</key>
+	<string>https://distribuicao-alimentos-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

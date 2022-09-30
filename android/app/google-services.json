@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "510130253782",
+    "firebase_url": "https://distribuicao-alimentos-default-rtdb.firebaseio.com",
+    "project_id": "distribuicao-alimentos",
+    "storage_bucket": "distribuicao-alimentos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510130253782:android:aa34093e401c699b943e77",
+        "android_client_info": {
+          "package_name": "br.ipti.tag.alimentos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510130253782-obd915rh9km4n9iso778t73cd2n3ke7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxPj3gnP-krT0tKUvHhLYPefm7C7ytiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510130253782-obd915rh9km4n9iso778t73cd2n3ke7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510130253782-drl3grl1s2p6krkd5al8v423m8q001vl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tagNhamDistribuicao"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510130253782:android:5d3e6c0e90ff5c33943e77",
+        "android_client_info": {
+          "package_name": "com.example.import_foods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510130253782-obd915rh9km4n9iso778t73cd2n3ke7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxPj3gnP-krT0tKUvHhLYPefm7C7ytiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510130253782-obd915rh9km4n9iso778t73cd2n3ke7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510130253782-drl3grl1s2p6krkd5al8v423m8q001vl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tagNhamDistribuicao"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
